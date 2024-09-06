@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: brown;
+}
+h1{
+    font-family:cursive;
+    font-size: 50px;
+    font-weight: 800;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 30px;
+}
+p{
+    margin-top: 2rem;
+    font-weight: 800;
+    font-size: 22px;
+}
